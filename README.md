@@ -1,6 +1,6 @@
 # Huffman
 
-Huffman coding was invented by David Huffman while he was a graduate student at MIT in 1950 when given the option of a term paper or a final exam. For details see this 1991 Scientific American Article. In an autobiography Huffman had this to say about the epiphany that led to his invention of the coding method that bears his name:
+Huffman coding was invented by David Huffman while he was a graduate student at MIT in 1950 when given the option of a term paper or a final exam. In an autobiography Huffman had this to say about the epiphany that led to his invention of the coding method that bears his name:
 
 "-- but a week before the end of the term I seemed to have nothing to show for weeks of effort. I knew I'd better get busy fast, do the standard final, and forget the research problem. I remember, after breakfast that morning, throwing my research notes in the wastebasket. And at that very moment, I had a sense of sudden release, so that I could see a simple pattern in what I had been doing, that I hadn't been able to see at all until then. The result is the thing for which I'm probably best known: the Huffman Coding Procedure. I've had many breakthroughs since then, but never again all at once, like that. It was very exciting."
 
